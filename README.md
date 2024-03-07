@@ -1,4 +1,4 @@
-# Cloud Computing: Overall Lab Instruction!!
+# Cloud Computing: Overall Lab Instruction1
 
 <!--**This is the repo containing all the lab materials for undergraduate course CS06142 "Cloud Computing Techniques" at Hunan University**--> 
 
